@@ -6,7 +6,7 @@
     <title>Programação Back-End - PHP</title>
 </head>
 <body>
-    <h1>Testando php</h1>
+    <h1>Testando php 28/08/25</h1>
     <?php
     echo "Comando pelo php novo";
     ?>
